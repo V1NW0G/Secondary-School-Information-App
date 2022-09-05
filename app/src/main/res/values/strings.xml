@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">School Information Station</string>
+
+    <string name="welcome">Welcome to School Information Station</string>
+    <string name="vbutton">Click to View</string>
+    <string name="more"> ↓ ↓ Check out the Youtube video for more Information ↓ ↓</string>
+    <string name="ani1">Welcome to the</string>
+    <string name="ani2">School information Station</string>
+</resources>

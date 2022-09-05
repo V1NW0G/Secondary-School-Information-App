@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">學校資訊站</string>
+    <string name="welcome">歡迎來到學校資訊站</string>
+    <string name="vbutton">點擊查看</string>
+    <string name="ani1">歡迎來到</string>
+    <string name="ani2">學校資訊站</string>
+    <string name="more">↓ ↓ 更多資訊請查閱以下 ↓ ↓</string>
+</resources>
